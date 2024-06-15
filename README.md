@@ -1,10 +1,10 @@
 # Iris-Classification-Mode-
 Iris Flower Classification Model Using Machine Learning Concepts With a Web Page For Prediction
 
-1. Inroductory portion of Web-Page
+## 1. Inroductory portion of Web-Page
 ![image](https://github.com/MirAb-77/Iris-Classification-Mode-/assets/169236743/6c6dbe7d-0fb3-46ee-8029-531f428aafd2)
 
-2. Predictions Portion of Web Page
+## 2. Predictions Portion of Web Page
    ![image](https://github.com/MirAb-77/Iris-Classification-Mode-/assets/169236743/91e6b083-1693-4c98-b612-f5238894be3e)
 
 
@@ -17,12 +17,3 @@ Two of the three species were collected in the Gaspé Peninsula "all from the sa
 The data set consists of `150` records and `50` samples under 5 attributes from each of three species(Class) of Iris (`Iris setosa`, `Iris virginica` and `Iris versicolor`). Four features were measured from each sample: the `length` and the `width` of the `sepals` and `petals`, in centimeters(Petal Length, Petal Width, Sepal Length, Sepal width). Based on the combination of these four features, Fisher developed a linear discriminant model to distinguish the species from each other.You can download it [here](https://www.kaggle.com/datasets/arshid/iris-flower-dataset).
 
 ![https://miro.medium.com/max/2550/0*GVjzZeYrir0R_6-X.png](https://miro.medium.com/max/2550/0*GVjzZeYrir0R_6-X.png)
-
-
-> |Variable| Description| 
- |:-------------|:-------------|
- |sepal length	| <b>the length of the sepals in cm|
- |sepal width  | <b> the width of the sepals in cm|
- |petal length    | <b>the length of the petal in cm|
- |petal width     | <b>the width of the petal in cm|
- |species    | <b>three Class of Iris (Iris setosa, Iris virginica and Iris versicolor)|
